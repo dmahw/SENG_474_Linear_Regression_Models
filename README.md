@@ -6,7 +6,7 @@ SENG 474 Programming Assignment Linear Regression Models
 * Adam Leung
 
 ## Description
-This repository is comprised of multiple solutions to solve linear regression models using normal equations, batch gradient descent, and stochastic gradient descent. Please note that the 100k dataset may be extremely expensive to compute however it is expected. 
+This repository is comprised of multiple solutions to solve linear regression models using normal equations, batch gradient descent, and stochastic gradient descent. Please note that the 100k dataset may be extremely expensive to compute however it is expected. Reposted repository to hide sensitive information
 
 * The 10k data set is expected to run for less than 5 minutes on all algorithms.
 * The 100k data set is expected to run for less than 10 minutes only on stochastic gradient descent 2.
